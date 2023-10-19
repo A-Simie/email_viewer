@@ -17,7 +17,7 @@ Clone the Repository: To get started with this project, you can clone this repos
 
 #shell
 Copy code
-git clone https://github.com/your-username/email-viewer.git
+git clone (https://github.com/A-Simie/email_viewer.git)
 Database Setup: Make sure you have a MySQL database set up. Update the database configuration in your PHP code to match your database credentials.
 
 Run the Application: You can run the project on a local PHP server. Simply navigate to the project directory and use PHP's built-in server:
